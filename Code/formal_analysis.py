@@ -238,9 +238,9 @@ CvsP12 = t_test_results_with_genes.loc[(t_test_results_with_genes['C vs P12 pval
 P0vsP12 = t_test_results_with_genes.loc[(t_test_results_with_genes['P0 vs P12 pvalue'] < 0.05) & (abs(t_test_results_with_genes['P0 vs P12 log2fc'] > 1))]
 
 # Save csv files to our drive folder
-CvsP0.drop(columns = ['C vs P12 pvalue','C vs P12 log2fc', 'P0 vs P12 pvalue', 'P0 vs P12 log2fc']).to_csv('/content/google_drive/MyDrive/440 project E + V 4ever/Results/CvsP0.csv')
-CvsP12.drop(columns = ['C vs P0 pvalue','C vs P0 log2fc', 'P0 vs P12 pvalue', 'P0 vs P12 log2fc']).to_csv('/content/google_drive/MyDrive/440 project E + V 4ever/Results/CvsP12.csv')
-P0vsP12.drop(columns = ['C vs P12 pvalue','C vs P12 log2fc', 'C vs P0 pvalue', 'C vs P0 log2fc']).to_csv('/content/google_drive/MyDrive/440 project E + V 4ever/Results/P0vsP12.csv')
+CvsP0.drop(columns = ['C vs P12 pvalue','C vs P12 log2fc', 'P0 vs P12 pvalue', 'P0 vs P12 log2fc']).to_csv('/content/google_drive/MyDrive/440 project E + V 4ever/Results/Dataframes/CvsP0.csv')
+CvsP12.drop(columns = ['C vs P0 pvalue','C vs P0 log2fc', 'P0 vs P12 pvalue', 'P0 vs P12 log2fc']).to_csv('/content/google_drive/MyDrive/440 project E + V 4ever/Results/Dataframes/CvsP12.csv')
+P0vsP12.drop(columns = ['C vs P12 pvalue','C vs P12 log2fc', 'C vs P0 pvalue', 'C vs P0 log2fc']).to_csv('/content/google_drive/MyDrive/440 project E + V 4ever/Results/Dataframes/P0vsP12.csv')
 
 """### Volcano plot"""
 
@@ -374,7 +374,7 @@ for i, (logfc_col, pval_col, title) in enumerate(zip(
     axes[i].axvline(x=-logfc_threshold, color='black', linestyle='--', linewidth=1)
     axes[i].grid(True, linestyle=':', color='grey')  # Add a dotted grid for better readability
 
-    plt.savefig(f'/content/google_drive/MyDrive/440 project E + V 4ever/Results/Volcano Plot of {title}.jpeg')
+    plt.savefig(f'/content/google_drive/MyDrive/440 project E + V 4ever/Results/Figures/Volcano Plot of {title}.jpeg')
 
 plt.tight_layout()
 plt.show()
@@ -429,7 +429,7 @@ for df, name in zip(cleaned_data_frames, comparison_names):
     g.cax.set_position([pos.x0 - 0.15, pos.y0, pos.width, pos.height])  # Adjust if necessary
 
     plt.title(f'Gene Expression Heatmap - {name}')
-    plt.savefig(f'/content/google_drive/MyDrive/440 project E + V 4ever/Results/Gene Expression Heatmap (SNS) - {name}.jpeg')
+    plt.savefig(f'/content/google_drive/MyDrive/440 project E + V 4ever/Results/Figures/Gene Expression Heatmap (SNS) - {name}.jpeg')
     plt.show()
 
 # Testing a new standardization method: z score instead of seaborn's method
@@ -470,7 +470,7 @@ for df, name in zip(cleaned_data_frames, comparison_names):
     g.cax.set_position([pos.x0 - 0.15, pos.y0, pos.width, pos.height])  # Adjust if necessary
 
     plt.title(f'Gene Expression Heatmap - {name}')
-    plt.savefig(f'/content/google_drive/MyDrive/440 project E + V 4ever/Results/Gene Expression Heatmap (Zscore) - {name}.jpeg')
+    plt.savefig(f'/content/google_drive/MyDrive/440 project E + V 4ever/Results/Figures/Gene Expression Heatmap (Z-score) - {name}.jpeg')
     plt.show()
 
 """### KEGG"""
@@ -485,7 +485,7 @@ def run_up_kegg_enrichment(df, comparison_name):
     up_kegg_enr = gp.enrichr(gene_list=upregulated_genes,
                              gene_sets='KEGG_2021_Human',
                              organism = 'human',
-                             outdir=f'kegg_pathway_enrichment_results/{comparison_name}_upregulated',
+                             outdir=f'/content/google_drive/MyDrive/440 project E + V 4ever/Results/Dataframes/kegg_pathway_enrichment_results/{comparison_name}_upregulated',
                              no_plot=True)
     print(f"KEGG Enrichment Analysis (Upregulated) - {comparison_name}")
     print(up_kegg_enr.results.head())
@@ -498,7 +498,7 @@ def run_down_kegg_enrichment(df, comparison_name):
     down_kegg_enr = gp.enrichr(gene_list=downregulated_genes,
                                gene_sets='KEGG_2021_Human',
                                organism = 'human',
-                               outdir=f'kegg_pathway_enrichment_results/{comparison_name}_downregulated',
+                               outdir=f'/content/google_drive/MyDrive/440 project E + V 4ever/Results/Dataframes/kegg_pathway_enrichment_results/{comparison_name}_downregulated',
                                no_plot=True)
     # Return the Enrichr object
 
@@ -513,7 +513,7 @@ def plot_kegg_enrichment_results(results_dict, regulation_type):
             gp.dotplot(enrichr_obj.res2d, title=f'{comparison_name} {regulation_type} KEGG Pathways',
                        cmap='viridis_r', y='Term', size=5)
             # Save the plot
-            plt.savefig(f'kegg_dotplot_{comparison_name}_{regulation_type}.png')
+            plt.savefig(f'/content/google_drive/MyDrive/440 project E + V 4ever/Results/Figures/kegg_dotplot_{comparison_name}_{regulation_type}.jpeg')
             plt.show()  # Show the plot
 
 
@@ -543,7 +543,7 @@ def run_up_go_enrichment(df, comparison_name):
     up_go_enr = gp.enrichr(gene_list=upregulated_genes,
                              gene_sets='GO_Biological_Process_2021',
                              organism = 'human',
-                             outdir=f'go_enrichment_results/{comparison_name}_upregulated',
+                             outdir=f'/content/google_drive/MyDrive/440 project E + V 4ever/Results/Dataframes/go_enrichment_results/{comparison_name}_upregulated',
                              no_plot=True)
     # Return the Enrichr object
     return up_go_enr
@@ -554,7 +554,7 @@ def run_down_go_enrichment(df, comparison_name):
     down_go_enr = gp.enrichr(gene_list=downregulated_genes,
                                gene_sets='GO_Biological_Process_2021',
                                organism = 'human',
-                               outdir=f'go_enrichment_results/{comparison_name}_downregulated',
+                               outdir=f'/content/google_drive/MyDrive/440 project E + V 4ever/Results/Dataframes/go_enrichment_results/{comparison_name}_downregulated',
                                no_plot=True)
     # Return the Enrichr object
     return down_go_enr
@@ -568,7 +568,7 @@ def plot_go_enrichment_results(results_dict, regulation_type):
             gp.dotplot(enrichr_obj.res2d, title=f'{comparison_name} {regulation_type} GO Pathways',
                        cmap='viridis_r', y='Term', size=5)
             # Save the plot
-            plt.savefig(f'go_dotplot_{comparison_name}_{regulation_type}.png')
+            plt.savefig(f'/content/google_drive/MyDrive/440 project E + V 4ever/Results/Figures/go_dotplot_{comparison_name}_{regulation_type}.png')
             plt.show()  # Show the plot
 
 

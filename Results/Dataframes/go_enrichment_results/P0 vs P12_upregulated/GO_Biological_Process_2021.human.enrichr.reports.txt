@@ -1,0 +1,366 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+GO_Biological_Process_2021	epidermis development (GO:0008544)	5/83	4.954201e-05	1.808284e-02	0	0	1.396591e+01	1.384397e+02	KRTAP5-9;KRT34;KRT32;KRT31;KRT83
+GO_Biological_Process_2021	positive regulation of neuron differentiation (GO:0045666)	3/43	1.150725e-03	2.100074e-01	0	0	1.601935e+01	1.084088e+02	DLX1;DLX2;BMP2
+GO_Biological_Process_2021	negative regulation of BMP signaling pathway (GO:0030514)	3/52	1.997455e-03	2.430237e-01	0	0	1.307110e+01	8.124840e+01	DLX1;BMP2;BAMBI
+GO_Biological_Process_2021	regulation of BMP signaling pathway (GO:0030510)	3/76	5.848776e-03	2.807611e-01	0	0	8.763146e+00	4.505592e+01	DLX1;BMP2;BAMBI
+GO_Biological_Process_2021	negative regulation of neuron differentiation (GO:0045665)	2/24	5.874693e-03	2.807611e-01	0	0	1.922824e+01	9.877742e+01	DLX1;DLX2
+GO_Biological_Process_2021	negative regulation of cellular response to growth factor stimulus (GO:0090288)	3/80	6.742048e-03	2.807611e-01	0	0	8.306242e+00	4.152616e+01	DLX1;BMP2;BAMBI
+GO_Biological_Process_2021	regulation of phosphatase activity (GO:0010921)	2/28	7.946251e-03	2.807611e-01	0	0	1.626678e+01	7.865076e+01	PPP1R2;BMP2
+GO_Biological_Process_2021	negative regulation of transmembrane receptor protein serine/threonine kinase signaling pathway (GO:0090101)	3/108	1.521913e-02	2.807611e-01	0	0	6.082642e+00	2.545708e+01	DLX1;BMP2;BAMBI
+GO_Biological_Process_2021	detection of chemical stimulus involved in sensory perception of bitter taste (GO:0001580)	2/40	1.579776e-02	2.807611e-01	0	0	1.112318e+01	4.613770e+01	CST1;CST4
+GO_Biological_Process_2021	sensory perception of bitter taste (GO:0050913)	2/41	1.655657e-02	2.807611e-01	0	0	1.083742e+01	4.444398e+01	CST1;CST4
+GO_Biological_Process_2021	positive regulation of epithelial to mesenchymal transition (GO:0010718)	2/42	1.733070e-02	2.807611e-01	0	0	1.056596e+01	4.284787e+01	BMP2;BAMBI
+GO_Biological_Process_2021	negative regulation of proteolysis (GO:0045861)	2/43	1.811997e-02	2.807611e-01	0	0	1.030773e+01	4.134164e+01	CHAC1;CST4
+GO_Biological_Process_2021	detection of chemical stimulus involved in sensory perception of taste (GO:0050912)	2/44	1.892422e-02	2.807611e-01	0	0	1.006180e+01	3.991832e+01	CST1;CST4
+GO_Biological_Process_2021	fatty acid derivative catabolic process (GO:1901569)	1/5	2.377289e-02	2.807611e-01	0	0	5.236842e+01	1.958165e+02	OXCT2
+GO_Biological_Process_2021	forebrain regionalization (GO:0021871)	1/5	2.377289e-02	2.807611e-01	0	0	5.236842e+01	1.958165e+02	BMP2
+GO_Biological_Process_2021	negative regulation of insulin-like growth factor receptor signaling pathway (GO:0043569)	1/5	2.377289e-02	2.807611e-01	0	0	5.236842e+01	1.958165e+02	BMP2
+GO_Biological_Process_2021	BMP signaling pathway involved in heart development (GO:0061312)	1/5	2.377289e-02	2.807611e-01	0	0	5.236842e+01	1.958165e+02	BMP2
+GO_Biological_Process_2021	histone citrullination (GO:0036414)	1/5	2.377289e-02	2.807611e-01	0	0	5.236842e+01	1.958165e+02	PADI3
+GO_Biological_Process_2021	protein citrullination (GO:0018101)	1/5	2.377289e-02	2.807611e-01	0	0	5.236842e+01	1.958165e+02	PADI3
+GO_Biological_Process_2021	cardiac muscle tissue development (GO:0048738)	2/53	2.681106e-02	2.807611e-01	0	0	8.282436e+00	2.997365e+01	BMP2;MSX2
+GO_Biological_Process_2021	positive regulation of animal organ morphogenesis (GO:0110110)	1/6	2.845994e-02	2.807611e-01	0	0	4.189263e+01	1.491067e+02	BMP2
+GO_Biological_Process_2021	negative regulation of cardiac muscle cell differentiation (GO:2000726)	1/6	2.845994e-02	2.807611e-01	0	0	4.189263e+01	1.491067e+02	BMP2
+GO_Biological_Process_2021	positive regulation of osteoblast proliferation (GO:0033690)	1/6	2.845994e-02	2.807611e-01	0	0	4.189263e+01	1.491067e+02	BMP2
+GO_Biological_Process_2021	glandular epithelial cell differentiation (GO:0002067)	1/6	2.845994e-02	2.807611e-01	0	0	4.189263e+01	1.491067e+02	BMP2
+GO_Biological_Process_2021	regulation of protein depolymerization (GO:1901879)	1/6	2.845994e-02	2.807611e-01	0	0	4.189263e+01	1.491067e+02	SLN
+GO_Biological_Process_2021	positive regulation of protein binding (GO:0032092)	2/58	3.167043e-02	2.807611e-01	0	0	7.541033e+00	2.603445e+01	BMP2;BAMBI
+GO_Biological_Process_2021	regulation of relaxation of muscle (GO:1901077)	1/7	3.312471e-02	2.807611e-01	0	0	3.490877e+01	1.189508e+02	SLN
+GO_Biological_Process_2021	negative regulation of steroid metabolic process (GO:0045939)	1/7	3.312471e-02	2.807611e-01	0	0	3.490877e+01	1.189508e+02	BMP2
+GO_Biological_Process_2021	negative regulation of cardiocyte differentiation (GO:1905208)	1/7	3.312471e-02	2.807611e-01	0	0	3.490877e+01	1.189508e+02	BMP2
+GO_Biological_Process_2021	negative regulation of DNA repair (GO:0045738)	1/7	3.312471e-02	2.807611e-01	0	0	3.490877e+01	1.189508e+02	OTUB2
+GO_Biological_Process_2021	regulation of aldosterone biosynthetic process (GO:0032347)	1/7	3.312471e-02	2.807611e-01	0	0	3.490877e+01	1.189508e+02	BMP2
+GO_Biological_Process_2021	glutathione catabolic process (GO:0006751)	1/7	3.312471e-02	2.807611e-01	0	0	3.490877e+01	1.189508e+02	CHAC1
+GO_Biological_Process_2021	regulation of cortisol biosynthetic process (GO:2000064)	1/7	3.312471e-02	2.807611e-01	0	0	3.490877e+01	1.189508e+02	BMP2
+GO_Biological_Process_2021	negative regulation of protein K63-linked ubiquitination (GO:1900045)	1/7	3.312471e-02	2.807611e-01	0	0	3.490877e+01	1.189508e+02	OTUB2
+GO_Biological_Process_2021	regulation of endothelial cell chemotaxis to fibroblast growth factor (GO:2000544)	1/7	3.312471e-02	2.807611e-01	0	0	3.490877e+01	1.189508e+02	FGF18
+GO_Biological_Process_2021	positive regulation of cell differentiation (GO:0045597)	4/258	3.576284e-02	2.807611e-01	0	0	3.363574e+00	1.120355e+01	DLX1;BMP2;DLX2;BAMBI
+GO_Biological_Process_2021	regulation of extracellular matrix constituent secretion (GO:0003330)	1/8	3.776733e-02	2.807611e-01	0	0	2.992030e+01	9.802821e+01	BMP2
+GO_Biological_Process_2021	sequestering of BMP from receptor via BMP binding (GO:0038098)	1/8	3.776733e-02	2.807611e-01	0	0	2.992030e+01	9.802821e+01	BMP2
+GO_Biological_Process_2021	positive regulation of astrocyte differentiation (GO:0048711)	1/8	3.776733e-02	2.807611e-01	0	0	2.992030e+01	9.802821e+01	BMP2
+GO_Biological_Process_2021	negative regulation of calcium ion import (GO:0090281)	1/8	3.776733e-02	2.807611e-01	0	0	2.992030e+01	9.802821e+01	SLN
+GO_Biological_Process_2021	regulation of ATPase-coupled calcium transmembrane transporter activity (GO:1901894)	1/8	3.776733e-02	2.807611e-01	0	0	2.992030e+01	9.802821e+01	SLN
+GO_Biological_Process_2021	pericardium development (GO:0060039)	1/9	4.238788e-02	2.807611e-01	0	0	2.617895e+01	8.274885e+01	BMP2
+GO_Biological_Process_2021	negative regulation of protein-containing complex disassembly (GO:0043242)	1/9	4.238788e-02	2.807611e-01	0	0	2.617895e+01	8.274885e+01	SLN
+GO_Biological_Process_2021	cellular response to BMP stimulus (GO:0071773)	2/71	4.574986e-02	2.807611e-01	0	0	6.116250e+00	1.886598e+01	DLX1;BMP2
+GO_Biological_Process_2021	formation of translation preinitiation complex (GO:0001731)	1/10	4.698647e-02	2.807611e-01	0	0	2.326901e+01	7.115419e+01	EIF5
+GO_Biological_Process_2021	protein K11-linked deubiquitination (GO:0035871)	1/10	4.698647e-02	2.807611e-01	0	0	2.326901e+01	7.115419e+01	OTUB2
+GO_Biological_Process_2021	cellular response to acetylcholine (GO:1905145)	1/10	4.698647e-02	2.807611e-01	0	0	2.326901e+01	7.115419e+01	LY6G6D
+GO_Biological_Process_2021	sarcoplasmic reticulum calcium ion transport (GO:0070296)	1/10	4.698647e-02	2.807611e-01	0	0	2.326901e+01	7.115419e+01	SLN
+GO_Biological_Process_2021	actin filament network formation (GO:0051639)	1/11	5.156322e-02	2.807611e-01	0	0	2.094105e+01	6.208911e+01	FHOD3
+GO_Biological_Process_2021	ketone body metabolic process (GO:1902224)	1/11	5.156322e-02	2.807611e-01	0	0	2.094105e+01	6.208911e+01	OXCT2
+GO_Biological_Process_2021	negative regulation of calcium ion transmembrane transport (GO:1903170)	1/11	5.156322e-02	2.807611e-01	0	0	2.094105e+01	6.208911e+01	SLN
+GO_Biological_Process_2021	negative regulation of steroid biosynthetic process (GO:0010894)	1/11	5.156322e-02	2.807611e-01	0	0	2.094105e+01	6.208911e+01	BMP2
+GO_Biological_Process_2021	glutathione biosynthetic process (GO:0006750)	1/11	5.156322e-02	2.807611e-01	0	0	2.094105e+01	6.208911e+01	CHAC1
+GO_Biological_Process_2021	regulation of cardiac muscle cell differentiation (GO:2000725)	1/11	5.156322e-02	2.807611e-01	0	0	2.094105e+01	6.208911e+01	BMP2
+GO_Biological_Process_2021	positive regulation of keratinocyte proliferation (GO:0010838)	1/11	5.156322e-02	2.807611e-01	0	0	2.094105e+01	6.208911e+01	CRNN
+GO_Biological_Process_2021	negative regulation of protein maturation (GO:1903318)	1/11	5.156322e-02	2.807611e-01	0	0	2.094105e+01	6.208911e+01	CHAC1
+GO_Biological_Process_2021	regulation of epithelial to mesenchymal transition (GO:0010717)	2/76	5.167382e-02	2.807611e-01	0	0	5.701553e+00	1.689258e+01	BMP2;BAMBI
+GO_Biological_Process_2021	positive regulation of developmental process (GO:0051094)	3/177	5.359811e-02	2.807611e-01	0	0	3.657768e+00	1.070351e+01	DLX1;BMP2;DLX2
+GO_Biological_Process_2021	positive regulation of protein depolymerization (GO:1901881)	1/12	5.611821e-02	2.807611e-01	0	0	1.903636e+01	5.483034e+01	SLN
+GO_Biological_Process_2021	melanocyte differentiation (GO:0030318)	1/12	5.611821e-02	2.807611e-01	0	0	1.903636e+01	5.483034e+01	MREG
+GO_Biological_Process_2021	nonribosomal peptide biosynthetic process (GO:0019184)	1/12	5.611821e-02	2.807611e-01	0	0	1.903636e+01	5.483034e+01	CHAC1
+GO_Biological_Process_2021	regulation of astrocyte differentiation (GO:0048710)	1/12	5.611821e-02	2.807611e-01	0	0	1.903636e+01	5.483034e+01	BMP2
+GO_Biological_Process_2021	regulation of muscle system process (GO:0090257)	1/12	5.611821e-02	2.807611e-01	0	0	1.903636e+01	5.483034e+01	SLN
+GO_Biological_Process_2021	cardiocyte differentiation (GO:0035051)	1/12	5.611821e-02	2.807611e-01	0	0	1.903636e+01	5.483034e+01	BMP2
+GO_Biological_Process_2021	regulation of osteoblast differentiation (GO:0045667)	2/83	6.039717e-02	2.807611e-01	0	0	5.206987e+00	1.461504e+01	BMP2;BAMBI
+GO_Biological_Process_2021	pathway-restricted SMAD protein phosphorylation (GO:0060389)	1/13	6.065155e-02	2.807611e-01	0	0	1.744912e+01	4.890309e+01	BMP2
+GO_Biological_Process_2021	negative regulation of alcohol biosynthetic process (GO:1902931)	1/13	6.065155e-02	2.807611e-01	0	0	1.744912e+01	4.890309e+01	BMP2
+GO_Biological_Process_2021	sequestering of extracellular ligand from receptor (GO:0035581)	1/14	6.516335e-02	2.807611e-01	0	0	1.610607e+01	4.398340e+01	BMP2
+GO_Biological_Process_2021	positive regulation of protein-containing complex disassembly (GO:0043243)	1/14	6.516335e-02	2.807611e-01	0	0	1.610607e+01	4.398340e+01	SLN
+GO_Biological_Process_2021	atrioventricular valve development (GO:0003171)	1/14	6.516335e-02	2.807611e-01	0	0	1.610607e+01	4.398340e+01	BMP2
+GO_Biological_Process_2021	positive regulation of binding (GO:0051099)	2/90	6.958433e-02	2.807611e-01	0	0	4.791103e+00	1.276932e+01	BMP2;BAMBI
+GO_Biological_Process_2021	G protein-coupled glutamate receptor signaling pathway (GO:0007216)	1/15	6.965370e-02	2.807611e-01	0	0	1.495489e+01	3.984310e+01	TRPM1
+GO_Biological_Process_2021	Arp2/3 complex-mediated actin nucleation (GO:0034314)	1/15	6.965370e-02	2.807611e-01	0	0	1.495489e+01	3.984310e+01	JMY
+GO_Biological_Process_2021	positive regulation of endothelial cell chemotaxis (GO:2001028)	1/15	6.965370e-02	2.807611e-01	0	0	1.495489e+01	3.984310e+01	FGF18
+GO_Biological_Process_2021	peptidyl-arginine modification (GO:0018195)	1/15	6.965370e-02	2.807611e-01	0	0	1.495489e+01	3.984310e+01	PADI3
+GO_Biological_Process_2021	cardiac myofibril assembly (GO:0055003)	1/15	6.965370e-02	2.807611e-01	0	0	1.495489e+01	3.984310e+01	FHOD3
+GO_Biological_Process_2021	negative regulation of protein processing (GO:0010955)	1/15	6.965370e-02	2.807611e-01	0	0	1.495489e+01	3.984310e+01	CHAC1
+GO_Biological_Process_2021	regulation of endothelial cell proliferation (GO:0001936)	2/92	7.228883e-02	2.807611e-01	0	0	4.684161e+00	1.230569e+01	BMP2;FGF18
+GO_Biological_Process_2021	negative regulation of transcription regulatory region DNA binding (GO:2000678)	1/16	7.412270e-02	2.807611e-01	0	0	1.395719e+01	3.631708e+01	MSX2
+GO_Biological_Process_2021	mesenchyme development (GO:0060485)	1/16	7.412270e-02	2.807611e-01	0	0	1.395719e+01	3.631708e+01	BMP2
+GO_Biological_Process_2021	odontogenesis of dentin-containing tooth (GO:0042475)	1/16	7.412270e-02	2.807611e-01	0	0	1.395719e+01	3.631708e+01	BMP2
+GO_Biological_Process_2021	positive regulation of vasoconstriction (GO:0045907)	1/16	7.412270e-02	2.807611e-01	0	0	1.395719e+01	3.631708e+01	SMTNL2
+GO_Biological_Process_2021	negative regulation of ATPase activity (GO:0032780)	1/17	7.857046e-02	2.807611e-01	0	0	1.308421e+01	3.328308e+01	SLN
+GO_Biological_Process_2021	regulation of steroid biosynthetic process (GO:0050810)	1/17	7.857046e-02	2.807611e-01	0	0	1.308421e+01	3.328308e+01	BMP2
+GO_Biological_Process_2021	mesenchyme morphogenesis (GO:0072132)	1/17	7.857046e-02	2.807611e-01	0	0	1.308421e+01	3.328308e+01	BMP2
+GO_Biological_Process_2021	regulation of metal ion transport (GO:0010959)	1/17	7.857046e-02	2.807611e-01	0	0	1.308421e+01	3.328308e+01	SLN
+GO_Biological_Process_2021	regulation of osteoblast proliferation (GO:0033688)	1/17	7.857046e-02	2.807611e-01	0	0	1.308421e+01	3.328308e+01	BMP2
+GO_Biological_Process_2021	cell surface receptor signaling pathway involved in heart development (GO:0061311)	1/17	7.857046e-02	2.807611e-01	0	0	1.308421e+01	3.328308e+01	BMP2
+GO_Biological_Process_2021	muscle tissue morphogenesis (GO:0060415)	1/17	7.857046e-02	2.807611e-01	0	0	1.308421e+01	3.328308e+01	BMP2
+GO_Biological_Process_2021	cellular modified amino acid catabolic process (GO:0042219)	1/17	7.857046e-02	2.807611e-01	0	0	1.308421e+01	3.328308e+01	CHAC1
+GO_Biological_Process_2021	regulation of protein-containing complex disassembly (GO:0043244)	1/18	8.299708e-02	2.807611e-01	0	0	1.231393e+01	3.064876e+01	SLN
+GO_Biological_Process_2021	positive regulation of cartilage development (GO:0061036)	1/18	8.299708e-02	2.807611e-01	0	0	1.231393e+01	3.064876e+01	BMP2
+GO_Biological_Process_2021	positive regulation of cell cycle phase transition (GO:1901989)	1/18	8.299708e-02	2.807611e-01	0	0	1.231393e+01	3.064876e+01	CRNN
+GO_Biological_Process_2021	melanosome transport (GO:0032402)	1/18	8.299708e-02	2.807611e-01	0	0	1.231393e+01	3.064876e+01	MREG
+GO_Biological_Process_2021	positive regulation of extracellular matrix organization (GO:1903055)	1/18	8.299708e-02	2.807611e-01	0	0	1.231393e+01	3.064876e+01	BMP2
+GO_Biological_Process_2021	regulation of cartilage development (GO:0061035)	1/18	8.299708e-02	2.807611e-01	0	0	1.231393e+01	3.064876e+01	BMP2
+GO_Biological_Process_2021	positive regulation of glial cell differentiation (GO:0045687)	1/18	8.299708e-02	2.807611e-01	0	0	1.231393e+01	3.064876e+01	BMP2
+GO_Biological_Process_2021	pigment granule transport (GO:0051904)	1/18	8.299708e-02	2.807611e-01	0	0	1.231393e+01	3.064876e+01	MREG
+GO_Biological_Process_2021	negative regulation of multicellular organismal process (GO:0051241)	3/214	8.393304e-02	2.807611e-01	0	0	3.010702e+00	7.459724e+00	DLX1;BMP2;DLX2
+GO_Biological_Process_2021	positive regulation of multicellular organismal process (GO:0051240)	4/345	8.455147e-02	2.807611e-01	0	0	2.494326e+00	6.161970e+00	BMP2;SLN;BAMBI;SMTNL2
+GO_Biological_Process_2021	intrinsic apoptotic signaling pathway (GO:0097193)	2/102	8.629986e-02	2.807611e-01	0	0	4.213617e+00	1.032306e+01	JMY;CHAC1
+GO_Biological_Process_2021	establishment of melanosome localization (GO:0032401)	1/19	8.740265e-02	2.807611e-01	0	0	1.162924e+01	2.834313e+01	MREG
+GO_Biological_Process_2021	negative regulation of calcium ion transport (GO:0051926)	1/19	8.740265e-02	2.807611e-01	0	0	1.162924e+01	2.834313e+01	SLN
+GO_Biological_Process_2021	negative regulation of striated muscle cell differentiation (GO:0051154)	1/19	8.740265e-02	2.807611e-01	0	0	1.162924e+01	2.834313e+01	BMP2
+GO_Biological_Process_2021	striated muscle cell differentiation (GO:0051146)	1/19	8.740265e-02	2.807611e-01	0	0	1.162924e+01	2.834313e+01	BMP2
+GO_Biological_Process_2021	regulation of insulin-like growth factor receptor signaling pathway (GO:0043567)	1/19	8.740265e-02	2.807611e-01	0	0	1.162924e+01	2.834313e+01	BMP2
+GO_Biological_Process_2021	atrioventricular valve morphogenesis (GO:0003181)	1/19	8.740265e-02	2.807611e-01	0	0	1.162924e+01	2.834313e+01	BMP2
+GO_Biological_Process_2021	cytoplasmic translational initiation (GO:0002183)	1/19	8.740265e-02	2.807611e-01	0	0	1.162924e+01	2.834313e+01	EIF5
+GO_Biological_Process_2021	branching involved in ureteric bud morphogenesis (GO:0001658)	1/19	8.740265e-02	2.807611e-01	0	0	1.162924e+01	2.834313e+01	BMP2
+GO_Biological_Process_2021	ureteric bud development (GO:0001657)	1/19	8.740265e-02	2.807611e-01	0	0	1.162924e+01	2.834313e+01	BMP2
+GO_Biological_Process_2021	ureteric bud morphogenesis (GO:0060675)	1/19	8.740265e-02	2.807611e-01	0	0	1.162924e+01	2.834313e+01	BMP2
+GO_Biological_Process_2021	cardiac atrium morphogenesis (GO:0003209)	1/19	8.740265e-02	2.807611e-01	0	0	1.162924e+01	2.834313e+01	BMP2
+GO_Biological_Process_2021	endocardial cushion morphogenesis (GO:0003203)	1/19	8.740265e-02	2.807611e-01	0	0	1.162924e+01	2.834313e+01	BMP2
+GO_Biological_Process_2021	fatty acid transport (GO:0015908)	1/20	9.178727e-02	2.807611e-01	0	0	1.101662e+01	2.631079e+01	SLC27A6
+GO_Biological_Process_2021	cortical actin cytoskeleton organization (GO:0030866)	1/20	9.178727e-02	2.807611e-01	0	0	1.101662e+01	2.631079e+01	FHOD3
+GO_Biological_Process_2021	cardiac epithelial to mesenchymal transition (GO:0060317)	1/20	9.178727e-02	2.807611e-01	0	0	1.101662e+01	2.631079e+01	BMP2
+GO_Biological_Process_2021	cellular modified amino acid biosynthetic process (GO:0042398)	1/20	9.178727e-02	2.807611e-01	0	0	1.101662e+01	2.631079e+01	CHAC1
+GO_Biological_Process_2021	acetylcholine receptor signaling pathway (GO:0095500)	1/21	9.615105e-02	2.807611e-01	0	0	1.046526e+01	2.450792e+01	LY6G6D
+GO_Biological_Process_2021	actin nucleation (GO:0045010)	1/21	9.615105e-02	2.807611e-01	0	0	1.046526e+01	2.450792e+01	JMY
+GO_Biological_Process_2021	positive regulation of phosphatase activity (GO:0010922)	1/21	9.615105e-02	2.807611e-01	0	0	1.046526e+01	2.450792e+01	BMP2
+GO_Biological_Process_2021	melanosome localization (GO:0032400)	1/21	9.615105e-02	2.807611e-01	0	0	1.046526e+01	2.450792e+01	MREG
+GO_Biological_Process_2021	positive regulation of transcription from RNA polymerase II promoter involved in cellular response to chemical stimulus (GO:1901522)	1/21	9.615105e-02	2.807611e-01	0	0	1.046526e+01	2.450792e+01	BMP2
+GO_Biological_Process_2021	negative regulation of ion transmembrane transporter activity (GO:0032413)	1/21	9.615105e-02	2.807611e-01	0	0	1.046526e+01	2.450792e+01	SLN
+GO_Biological_Process_2021	calcium ion transport into cytosol (GO:0060402)	1/21	9.615105e-02	2.807611e-01	0	0	1.046526e+01	2.450792e+01	TRPM1
+GO_Biological_Process_2021	endocardial cushion development (GO:0003197)	1/21	9.615105e-02	2.807611e-01	0	0	1.046526e+01	2.450792e+01	BMP2
+GO_Biological_Process_2021	negative regulation of lipid biosynthetic process (GO:0051055)	1/22	1.004941e-01	2.911138e-01	0	0	9.966416e+00	2.289940e+01	BMP2
+GO_Biological_Process_2021	cellular response to transforming growth factor beta stimulus (GO:0071560)	2/114	1.040776e-01	2.956491e-01	0	0	3.759878e+00	8.507171e+00	DLX1;BAMBI
+GO_Biological_Process_2021	calcium ion transport (GO:0006816)	2/115	1.056016e-01	2.956491e-01	0	0	3.726417e+00	8.377290e+00	TRPM1;SLN
+GO_Biological_Process_2021	positive regulation of p38MAPK cascade (GO:1900745)	1/24	1.091183e-01	2.956491e-01	0	0	9.098856e+00	2.015690e+01	BMP2
+GO_Biological_Process_2021	regulation of keratinocyte proliferation (GO:0010837)	1/24	1.091183e-01	2.956491e-01	0	0	9.098856e+00	2.015690e+01	CRNN
+GO_Biological_Process_2021	regulation of cellular response to transforming growth factor beta stimulus (GO:1903844)	1/24	1.091183e-01	2.956491e-01	0	0	9.098856e+00	2.015690e+01	DLX1
+GO_Biological_Process_2021	cardiac muscle cell development (GO:0055013)	1/24	1.091183e-01	2.956491e-01	0	0	9.098856e+00	2.015690e+01	FHOD3
+GO_Biological_Process_2021	cardiac muscle cell differentiation (GO:0055007)	1/24	1.091183e-01	2.956491e-01	0	0	9.098856e+00	2.015690e+01	BMP2
+GO_Biological_Process_2021	protein K48-linked deubiquitination (GO:0071108)	1/24	1.091183e-01	2.956491e-01	0	0	9.098856e+00	2.015690e+01	OTUB2
+GO_Biological_Process_2021	regulation of protein binding (GO:0043393)	2/118	1.102099e-01	2.956491e-01	0	0	3.629494e+00	8.004372e+00	BMP2;BAMBI
+GO_Biological_Process_2021	regulation of calcium ion import (GO:0090279)	1/25	1.133996e-01	2.956491e-01	0	0	8.719298e+00	1.898049e+01	SLN
+GO_Biological_Process_2021	peptide catabolic process (GO:0043171)	1/25	1.133996e-01	2.956491e-01	0	0	8.719298e+00	1.898049e+01	CHAC1
+GO_Biological_Process_2021	cardiac conduction system development (GO:0003161)	1/25	1.133996e-01	2.956491e-01	0	0	8.719298e+00	1.898049e+01	MSX2
+GO_Biological_Process_2021	in utero embryonic development (GO:0001701)	1/25	1.133996e-01	2.956491e-01	0	0	8.719298e+00	1.898049e+01	BMP2
+GO_Biological_Process_2021	regulation of protein processing (GO:0070613)	1/25	1.133996e-01	2.956491e-01	0	0	8.719298e+00	1.898049e+01	CHAC1
+GO_Biological_Process_2021	epithelium development (GO:0060429)	2/122	1.164354e-01	2.991116e-01	0	0	3.507801e+00	7.543242e+00	BMP2;DLX3
+GO_Biological_Process_2021	clathrin-dependent endocytosis (GO:0072583)	1/26	1.176606e-01	2.991116e-01	0	0	8.370105e+00	1.791161e+01	DNAJC6
+GO_Biological_Process_2021	cellular response to organic substance (GO:0071310)	2/123	1.180057e-01	2.991116e-01	0	0	3.478635e+00	7.433922e+00	CRNN;IL1F10
+GO_Biological_Process_2021	positive regulation of epithelial cell proliferation (GO:0050679)	2/123	1.180057e-01	2.991116e-01	0	0	3.478635e+00	7.433922e+00	CRNN;BMP2
+GO_Biological_Process_2021	negative regulation of catalytic activity (GO:0043086)	1/27	1.219014e-01	3.047534e-01	0	0	8.047773e+00	1.693688e+01	SLN
+GO_Biological_Process_2021	regulation of transcription regulatory region DNA binding (GO:2000677)	1/27	1.219014e-01	3.047534e-01	0	0	8.047773e+00	1.693688e+01	MSX2
+GO_Biological_Process_2021	regulation of extrinsic apoptotic signaling pathway in absence of ligand (GO:2001239)	1/28	1.261219e-01	3.048643e-01	0	0	7.749318e+00	1.604501e+01	PPP2R1B
+GO_Biological_Process_2021	negative regulation of calcium ion transmembrane transporter activity (GO:1901020)	1/28	1.261219e-01	3.048643e-01	0	0	7.749318e+00	1.604501e+01	SLN
+GO_Biological_Process_2021	cytosolic calcium ion transport (GO:0060401)	1/28	1.261219e-01	3.048643e-01	0	0	7.749318e+00	1.604501e+01	TRPM1
+GO_Biological_Process_2021	regulation of plasma membrane bounded cell projection organization (GO:0120035)	1/28	1.261219e-01	3.048643e-01	0	0	7.749318e+00	1.604501e+01	NCS1
+GO_Biological_Process_2021	sarcomere organization (GO:0045214)	1/28	1.261219e-01	3.048643e-01	0	0	7.749318e+00	1.604501e+01	FHOD3
+GO_Biological_Process_2021	intrinsic apoptotic signaling pathway in response to endoplasmic reticulum stress (GO:0070059)	1/29	1.303224e-01	3.049211e-01	0	0	7.472180e+00	1.522639e+01	CHAC1
+GO_Biological_Process_2021	actin filament polymerization (GO:0030041)	1/29	1.303224e-01	3.049211e-01	0	0	7.472180e+00	1.522639e+01	DIAPH3
+GO_Biological_Process_2021	positive regulation of dephosphorylation (GO:0035306)	1/29	1.303224e-01	3.049211e-01	0	0	7.472180e+00	1.522639e+01	BMP2
+GO_Biological_Process_2021	regulation of calcium ion transmembrane transporter activity (GO:1901019)	1/29	1.303224e-01	3.049211e-01	0	0	7.472180e+00	1.522639e+01	SLN
+GO_Biological_Process_2021	positive regulation of extrinsic apoptotic signaling pathway (GO:2001238)	1/29	1.303224e-01	3.049211e-01	0	0	7.472180e+00	1.522639e+01	PPP2R1B
+GO_Biological_Process_2021	transmembrane receptor protein serine/threonine kinase signaling pathway (GO:0007178)	2/133	1.339906e-01	3.087646e-01	0	0	3.211467e+00	6.455002e+00	BMP2;BAMBI
+GO_Biological_Process_2021	regulation of vasoconstriction (GO:0019229)	1/30	1.345029e-01	3.087646e-01	0	0	7.214156e+00	1.447282e+01	SMTNL2
+GO_Biological_Process_2021	negative regulation of Notch signaling pathway (GO:0045746)	1/30	1.345029e-01	3.087646e-01	0	0	7.214156e+00	1.447282e+01	CHAC1
+GO_Biological_Process_2021	negative regulation of DNA binding (GO:0043392)	1/31	1.386636e-01	3.139976e-01	0	0	6.973333e+00	1.377725e+01	MSX2
+GO_Biological_Process_2021	negative regulation of osteoblast differentiation (GO:0045668)	1/31	1.386636e-01	3.139976e-01	0	0	6.973333e+00	1.377725e+01	BAMBI
+GO_Biological_Process_2021	long-chain fatty acid transport (GO:0015909)	1/32	1.428044e-01	3.139976e-01	0	0	6.748048e+00	1.313359e+01	SLC27A6
+GO_Biological_Process_2021	chondrocyte differentiation (GO:0002062)	1/32	1.428044e-01	3.139976e-01	0	0	6.748048e+00	1.313359e+01	BMP2
+GO_Biological_Process_2021	negative regulation of double-strand break repair (GO:2000780)	1/32	1.428044e-01	3.139976e-01	0	0	6.748048e+00	1.313359e+01	OTUB2
+GO_Biological_Process_2021	cardiac muscle tissue morphogenesis (GO:0055008)	1/32	1.428044e-01	3.139976e-01	0	0	6.748048e+00	1.313359e+01	BMP2
+GO_Biological_Process_2021	protein K63-linked deubiquitination (GO:0070536)	1/32	1.428044e-01	3.139976e-01	0	0	6.748048e+00	1.313359e+01	OTUB2
+GO_Biological_Process_2021	signal transduction by p53 class mediator (GO:0072331)	1/33	1.469255e-01	3.173243e-01	0	0	6.536842e+00	1.253655e+01	JMY
+GO_Biological_Process_2021	regulation of sprouting angiogenesis (GO:1903670)	1/33	1.469255e-01	3.173243e-01	0	0	6.536842e+00	1.253655e+01	FGF18
+GO_Biological_Process_2021	very long-chain fatty acid metabolic process (GO:0000038)	1/33	1.469255e-01	3.173243e-01	0	0	6.536842e+00	1.253655e+01	SLC27A6
+GO_Biological_Process_2021	positive regulation of cell cycle G1/S phase transition (GO:1902808)	1/35	1.551090e-01	3.301002e-01	0	0	6.151703e+00	1.146448e+01	CRNN
+GO_Biological_Process_2021	intrinsic apoptotic signaling pathway by p53 class mediator (GO:0072332)	1/36	1.591716e-01	3.301002e-01	0	0	5.975639e+00	1.098186e+01	JMY
+GO_Biological_Process_2021	positive regulation of bone mineralization (GO:0030501)	1/36	1.591716e-01	3.301002e-01	0	0	5.975639e+00	1.098186e+01	BMP2
+GO_Biological_Process_2021	aortic valve development (GO:0003176)	1/36	1.591716e-01	3.301002e-01	0	0	5.975639e+00	1.098186e+01	BMP2
+GO_Biological_Process_2021	regulation of cell cycle G1/S phase transition (GO:1902806)	1/36	1.591716e-01	3.301002e-01	0	0	5.975639e+00	1.098186e+01	CRNN
+GO_Biological_Process_2021	regulation of ossification (GO:0030278)	1/36	1.591716e-01	3.301002e-01	0	0	5.975639e+00	1.098186e+01	BMP2
+GO_Biological_Process_2021	retina homeostasis (GO:0001895)	1/36	1.591716e-01	3.301002e-01	0	0	5.975639e+00	1.098186e+01	CST4
+GO_Biological_Process_2021	response to cytokine (GO:0034097)	2/150	1.621691e-01	3.309635e-01	0	0	2.840138e+00	5.166539e+00	CRNN;IL1F10
+GO_Biological_Process_2021	glutamate receptor signaling pathway (GO:0007215)	1/37	1.632149e-01	3.309635e-01	0	0	5.809357e+00	1.053055e+01	TRPM1
+GO_Biological_Process_2021	regulation of p38MAPK cascade (GO:1900744)	1/37	1.632149e-01	3.309635e-01	0	0	5.809357e+00	1.053055e+01	BMP2
+GO_Biological_Process_2021	phagosome maturation (GO:0090382)	1/37	1.632149e-01	3.309635e-01	0	0	5.809357e+00	1.053055e+01	MREG
+GO_Biological_Process_2021	synaptic vesicle endocytosis (GO:0048488)	1/38	1.672389e-01	3.335867e-01	0	0	5.652063e+00	1.010777e+01	DNAJC6
+GO_Biological_Process_2021	regulation of phosphoprotein phosphatase activity (GO:0043666)	1/38	1.672389e-01	3.335867e-01	0	0	5.652063e+00	1.010777e+01	PPP1R2
+GO_Biological_Process_2021	positive regulation of Wnt signaling pathway (GO:0030177)	2/153	1.672503e-01	3.335867e-01	0	0	2.783289e+00	4.977254e+00	BMP2;BAMBI
+GO_Biological_Process_2021	odontogenesis (GO:0042476)	1/39	1.712437e-01	3.388946e-01	0	0	5.503047e+00	9.711048e+00	BMP2
+GO_Biological_Process_2021	regulation of cell differentiation (GO:0045595)	2/156	1.723592e-01	3.388946e-01	0	0	2.728654e+00	4.797451e+00	DLX1;DLX2
+GO_Biological_Process_2021	positive regulation of ossification (GO:0045778)	1/40	1.752295e-01	3.388946e-01	0	0	5.361673e+00	9.338205e+00	BMP2
+GO_Biological_Process_2021	sulfur compound catabolic process (GO:0044273)	1/40	1.752295e-01	3.388946e-01	0	0	5.361673e+00	9.338205e+00	CHAC1
+GO_Biological_Process_2021	cellular response to growth factor stimulus (GO:0071363)	2/158	1.757796e-01	3.388946e-01	0	0	2.693399e+00	4.682539e+00	DLX1;BMP2
+GO_Biological_Process_2021	positive regulation of biomineral tissue development (GO:0070169)	1/41	1.791963e-01	3.388946e-01	0	0	5.227368e+00	8.987274e+00	BMP2
+GO_Biological_Process_2021	negative regulation of cell-cell adhesion (GO:0022408)	1/41	1.791963e-01	3.388946e-01	0	0	5.227368e+00	8.987274e+00	BMP2
+GO_Biological_Process_2021	cortical cytoskeleton organization (GO:0030865)	1/41	1.791963e-01	3.388946e-01	0	0	5.227368e+00	8.987274e+00	FHOD3
+GO_Biological_Process_2021	carboxylic acid transmembrane transport (GO:1905039)	1/41	1.791963e-01	3.388946e-01	0	0	5.227368e+00	8.987274e+00	SLC7A11
+GO_Biological_Process_2021	regulation of protein dephosphorylation (GO:0035304)	1/41	1.791963e-01	3.388946e-01	0	0	5.227368e+00	8.987274e+00	PPP1R2
+GO_Biological_Process_2021	regulation of double-strand break repair (GO:2000779)	1/42	1.831443e-01	3.445756e-01	0	0	5.099615e+00	8.656499e+00	OTUB2
+GO_Biological_Process_2021	glutathione metabolic process (GO:0006749)	1/43	1.870734e-01	3.483766e-01	0	0	4.977945e+00	8.344300e+00	CHAC1
+GO_Biological_Process_2021	myofibril assembly (GO:0030239)	1/43	1.870734e-01	3.483766e-01	0	0	4.977945e+00	8.344300e+00	FHOD3
+GO_Biological_Process_2021	positive regulation of osteoblast differentiation (GO:0045669)	1/44	1.909839e-01	3.485456e-01	0	0	4.861934e+00	8.049253e+00	BMP2
+GO_Biological_Process_2021	neurogenesis (GO:0022008)	1/44	1.909839e-01	3.485456e-01	0	0	4.861934e+00	8.049253e+00	CHAC1
+GO_Biological_Process_2021	branching morphogenesis of an epithelial tube (GO:0048754)	1/44	1.909839e-01	3.485456e-01	0	0	4.861934e+00	8.049253e+00	BMP2
+GO_Biological_Process_2021	cation transmembrane transport (GO:0098655)	1/44	1.909839e-01	3.485456e-01	0	0	4.861934e+00	8.049253e+00	TRPM1
+GO_Biological_Process_2021	cellular response to radiation (GO:0071478)	1/45	1.948757e-01	3.521269e-01	0	0	4.751196e+00	7.770074e+00	TRPM1
+GO_Biological_Process_2021	amino acid transmembrane transport (GO:0003333)	1/45	1.948757e-01	3.521269e-01	0	0	4.751196e+00	7.770074e+00	SLC7A11
+GO_Biological_Process_2021	epithelial to mesenchymal transition (GO:0001837)	1/47	2.026039e-01	3.625021e-01	0	0	4.544165e+00	7.254770e+00	BMP2
+GO_Biological_Process_2021	positive regulation of pathway-restricted SMAD protein phosphorylation (GO:0010862)	1/47	2.026039e-01	3.625021e-01	0	0	4.544165e+00	7.254770e+00	BMP2
+GO_Biological_Process_2021	positive regulation of blood vessel endothelial cell migration (GO:0043536)	1/48	2.064404e-01	3.675646e-01	0	0	4.447256e+00	7.016630e+00	FGF18
+GO_Biological_Process_2021	actin polymerization or depolymerization (GO:0008154)	1/50	2.140587e-01	3.774465e-01	0	0	4.265306e+00	6.574990e+00	DIAPH3
+GO_Biological_Process_2021	amino acid transport (GO:0006865)	1/50	2.140587e-01	3.774465e-01	0	0	4.265306e+00	6.574990e+00	SLC7A11
+GO_Biological_Process_2021	mesenchymal cell differentiation (GO:0048762)	1/51	2.178407e-01	3.804395e-01	0	0	4.179789e+00	6.369963e+00	BMP2
+GO_Biological_Process_2021	positive regulation of fat cell differentiation (GO:0045600)	1/51	2.178407e-01	3.804395e-01	0	0	4.179789e+00	6.369963e+00	BMP2
+GO_Biological_Process_2021	cartilage development (GO:0051216)	1/52	2.216046e-01	3.851700e-01	0	0	4.097626e+00	6.174551e+00	BMP2
+GO_Biological_Process_2021	heart morphogenesis (GO:0003007)	1/53	2.253507e-01	3.898246e-01	0	0	4.018623e+00	5.988141e+00	BMP2
+GO_Biological_Process_2021	regulation of proteolysis (GO:0030162)	1/54	2.290789e-01	3.944047e-01	0	0	3.942602e+00	5.810169e+00	CST4
+GO_Biological_Process_2021	negative regulation of transcription by RNA polymerase II (GO:0000122)	5/684	2.317147e-01	3.970472e-01	0	0	1.555698e+00	2.274816e+00	DLX1;BMP2;DLX2;DLX4;MSX2
+GO_Biological_Process_2021	regulation of blood vessel endothelial cell migration (GO:0043535)	1/55	2.327893e-01	3.970472e-01	0	0	3.869396e+00	5.640114e+00	FGF18
+GO_Biological_Process_2021	regulation of bone mineralization (GO:0030500)	1/57	2.401572e-01	4.077088e-01	0	0	3.730827e+00	5.321881e+00	BMP2
+GO_Biological_Process_2021	chordate embryonic development (GO:0043009)	1/58	2.438149e-01	4.082222e-01	0	0	3.665189e+00	5.172850e+00	BMP2
+GO_Biological_Process_2021	regulation of calcium ion transport (GO:0051924)	1/58	2.438149e-01	4.082222e-01	0	0	3.665189e+00	5.172850e+00	SLN
+GO_Biological_Process_2021	regulation of pathway-restricted SMAD protein phosphorylation (GO:0060393)	1/58	2.438149e-01	4.082222e-01	0	0	3.665189e+00	5.172850e+00	BMP2
+GO_Biological_Process_2021	protein polymerization (GO:0051258)	1/59	2.474551e-01	4.124252e-01	0	0	3.601815e+00	5.030028e+00	DIAPH3
+GO_Biological_Process_2021	Notch signaling pathway (GO:0007219)	1/60	2.510780e-01	4.165613e-01	0	0	3.540589e+00	4.893064e+00	BMP2
+GO_Biological_Process_2021	response to light stimulus (GO:0009416)	1/61	2.546837e-01	4.206314e-01	0	0	3.481404e+00	4.761630e+00	TRPM1
+GO_Biological_Process_2021	anterior/posterior pattern specification (GO:0009952)	1/63	2.618435e-01	4.305084e-01	0	0	3.368761e+00	4.514167e+00	BMP2
+GO_Biological_Process_2021	BMP signaling pathway (GO:0030509)	1/65	2.689352e-01	4.401855e-01	0	0	3.263158e+00	4.285455e+00	BMP2
+GO_Biological_Process_2021	positive regulation of protein modification process (GO:0031401)	2/214	2.743101e-01	4.469784e-01	0	0	1.976315e+00	2.556356e+00	BMP2;FGF18
+GO_Biological_Process_2021	negative regulation of transforming growth factor beta receptor signaling pathway (GO:0030512)	1/68	2.794466e-01	4.509222e-01	0	0	3.116575e+00	3.973459e+00	BAMBI
+GO_Biological_Process_2021	regulation of translational initiation (GO:0006446)	1/68	2.794466e-01	4.509222e-01	0	0	3.116575e+00	3.973459e+00	EIF5
+GO_Biological_Process_2021	positive regulation of macromolecule metabolic process (GO:0010604)	3/384	2.804365e-01	4.509222e-01	0	0	1.652951e+00	2.101574e+00	BMP2;FGF18;IL1F10
+GO_Biological_Process_2021	positive regulation of MAP kinase activity (GO:0043406)	1/69	2.829171e-01	4.529155e-01	0	0	3.070588e+00	3.876929e+00	FGF18
+GO_Biological_Process_2021	cellular response to light stimulus (GO:0071482)	1/70	2.863710e-01	4.544583e-01	0	0	3.025934e+00	3.783832e+00	TRPM1
+GO_Biological_Process_2021	defense response to Gram-positive bacterium (GO:0050830)	1/70	2.863710e-01	4.544583e-01	0	0	3.025934e+00	3.783832e+00	LYG2
+GO_Biological_Process_2021	positive regulation of secretion by cell (GO:1903532)	1/72	2.932295e-01	4.633280e-01	0	0	2.940400e+00	3.607282e+00	BMP2
+GO_Biological_Process_2021	inflammatory response (GO:0006954)	2/230	3.027329e-01	4.752756e-01	0	0	1.836133e+00	2.194003e+00	BMP2;IL1F10
+GO_Biological_Process_2021	fibroblast growth factor receptor signaling pathway (GO:0008543)	1/75	3.033951e-01	4.752756e-01	0	0	2.820768e+00	3.364385e+00	FGF18
+GO_Biological_Process_2021	actomyosin structure organization (GO:0031032)	1/76	3.067514e-01	4.784798e-01	0	0	2.783018e+00	3.288741e+00	FHOD3
+GO_Biological_Process_2021	negative regulation of developmental process (GO:0051093)	1/77	3.100917e-01	4.795910e-01	0	0	2.746260e+00	3.215561e+00	BMP2
+GO_Biological_Process_2021	positive regulation of endothelial cell proliferation (GO:0001938)	1/77	3.100917e-01	4.795910e-01	0	0	2.746260e+00	3.215561e+00	BMP2
+GO_Biological_Process_2021	regulation of neuron differentiation (GO:0045664)	1/79	3.167245e-01	4.866929e-01	0	0	2.675574e+00	3.076168e+00	BMP2
+GO_Biological_Process_2021	regulation of fat cell differentiation (GO:0045598)	1/80	3.200173e-01	4.866929e-01	0	0	2.641572e+00	3.009756e+00	BMP2
+GO_Biological_Process_2021	negative regulation of cell cycle (GO:0045786)	1/80	3.200173e-01	4.866929e-01	0	0	2.641572e+00	3.009756e+00	BMP2
+GO_Biological_Process_2021	negative regulation of cellular component organization (GO:0051129)	1/80	3.200173e-01	4.866929e-01	0	0	2.641572e+00	3.009756e+00	SLN
+GO_Biological_Process_2021	regulation of Notch signaling pathway (GO:0008593)	1/83	3.298015e-01	4.991934e-01	0	0	2.544544e+00	2.822572e+00	CHAC1
+GO_Biological_Process_2021	positive regulation of DNA-binding transcription factor activity (GO:0051091)	2/246	3.309721e-01	4.991934e-01	0	0	1.714336e+00	1.895577e+00	CRNN;JMY
+GO_Biological_Process_2021	positive regulation of endothelial cell migration (GO:0010595)	1/86	3.394464e-01	5.089394e-01	0	0	2.454365e+00	2.651792e+00	FGF18
+GO_Biological_Process_2021	calcium ion transmembrane transport (GO:0070588)	1/87	3.426308e-01	5.089394e-01	0	0	2.425704e+00	2.598176e+00	TRPM1
+GO_Biological_Process_2021	positive regulation of phosphorylation (GO:0042327)	2/253	3.432356e-01	5.089394e-01	0	0	1.665932e+00	1.781445e+00	BMP2;FGF18
+GO_Biological_Process_2021	regulation of canonical Wnt signaling pathway (GO:0060828)	2/253	3.432356e-01	5.089394e-01	0	0	1.665932e+00	1.781445e+00	BMP2;BAMBI
+GO_Biological_Process_2021	negative regulation of binding (GO:0051100)	1/88	3.457999e-01	5.089394e-01	0	0	2.397701e+00	2.546107e+00	SLN
+GO_Biological_Process_2021	metal ion transport (GO:0030001)	1/88	3.457999e-01	5.089394e-01	0	0	2.397701e+00	2.546107e+00	SLN
+GO_Biological_Process_2021	transforming growth factor beta receptor signaling pathway (GO:0007179)	1/89	3.489539e-01	5.094728e-01	0	0	2.370335e+00	2.495525e+00	BAMBI
+GO_Biological_Process_2021	post-Golgi vesicle-mediated transport (GO:0006892)	1/89	3.489539e-01	5.094728e-01	0	0	2.370335e+00	2.495525e+00	DNAJC6
+GO_Biological_Process_2021	positive regulation of cellular process (GO:0048522)	4/625	3.527307e-01	5.129351e-01	0	0	1.350067e+00	1.406837e+00	DLX1;DLX2;BAMBI;FGF18
+GO_Biological_Process_2021	cellular response to fibroblast growth factor stimulus (GO:0044344)	1/92	3.583260e-01	5.160041e-01	0	0	2.291845e+00	2.352148e+00	FGF18
+GO_Biological_Process_2021	positive regulation of transmembrane receptor protein serine/threonine kinase signaling pathway (GO:0090100)	1/92	3.583260e-01	5.160041e-01	0	0	2.291845e+00	2.352148e+00	BMP2
+GO_Biological_Process_2021	visual perception (GO:0007601)	1/93	3.614203e-01	5.160041e-01	0	0	2.266819e+00	2.306973e+00	TRPM1
+GO_Biological_Process_2021	regulation of epithelial cell proliferation (GO:0050678)	1/93	3.614203e-01	5.160041e-01	0	0	2.266819e+00	2.306973e+00	FGF18
+GO_Biological_Process_2021	negative regulation of cellular protein metabolic process (GO:0032269)	1/94	3.644998e-01	5.160041e-01	0	0	2.242332e+00	2.263027e+00	CST4
+GO_Biological_Process_2021	regulation of protein phosphorylation (GO:0001932)	2/266	3.658199e-01	5.160041e-01	0	0	1.582850e+00	1.591736e+00	BMP2;FGF18
+GO_Biological_Process_2021	negative regulation of signal transduction (GO:0009968)	2/267	3.675456e-01	5.160041e-01	0	0	1.576796e+00	1.578228e+00	BMP2;CHAC1
+GO_Biological_Process_2021	protein deubiquitination (GO:0016579)	2/267	3.675456e-01	5.160041e-01	0	0	1.576796e+00	1.578228e+00	OTUB2;USP38
+GO_Biological_Process_2021	sensory perception of light stimulus (GO:0050953)	1/95	3.675646e-01	5.160041e-01	0	0	2.218365e+00	2.220264e+00	TRPM1
+GO_Biological_Process_2021	positive regulation of cold-induced thermogenesis (GO:0120162)	1/97	3.736504e-01	5.205435e-01	0	0	2.171930e+00	2.138123e+00	SLN
+GO_Biological_Process_2021	regulation of MAP kinase activity (GO:0043405)	1/97	3.736504e-01	5.205435e-01	0	0	2.171930e+00	2.138123e+00	FGF18
+GO_Biological_Process_2021	positive regulation of MAPK cascade (GO:0043410)	2/274	3.795751e-01	5.235702e-01	0	0	1.535670e+00	1.487607e+00	BMP2;FGF18
+GO_Biological_Process_2021	positive regulation of stress-activated MAPK cascade (GO:0032874)	1/99	3.796782e-01	5.235702e-01	0	0	2.127390e+00	2.060231e+00	BMP2
+GO_Biological_Process_2021	regulation of transforming growth factor beta receptor signaling pathway (GO:0017015)	1/100	3.826706e-01	5.235702e-01	0	0	2.105795e+00	2.022786e+00	BAMBI
+GO_Biological_Process_2021	organic acid transport (GO:0015849)	1/100	3.826706e-01	5.235702e-01	0	0	2.105795e+00	2.022786e+00	SLC7A11
+GO_Biological_Process_2021	protein modification by small protein removal (GO:0070646)	2/276	3.829952e-01	5.235702e-01	0	0	1.524305e+00	1.462926e+00	OTUB2;USP38
+GO_Biological_Process_2021	epithelial cell differentiation (GO:0030855)	1/101	3.856486e-01	5.252304e-01	0	0	2.084632e+00	1.986297e+00	DLX3
+GO_Biological_Process_2021	positive regulation of vasculature development (GO:1904018)	1/102	3.886125e-01	5.272995e-01	0	0	2.063887e+00	1.950730e+00	FGF18
+GO_Biological_Process_2021	positive regulation of cell population proliferation (GO:0008284)	3/474	3.984077e-01	5.331139e-01	0	0	1.330936e+00	1.224833e+00	BMP2;BAMBI;FGF18
+GO_Biological_Process_2021	positive regulation of programmed cell death (GO:0043068)	2/286	3.999747e-01	5.331139e-01	0	0	1.469883e+00	1.346933e+00	BMP2;JMY
+GO_Biological_Process_2021	positive regulation of protein serine/threonine kinase activity (GO:0071902)	1/106	4.003270e-01	5.331139e-01	0	0	1.984862e+00	1.817089e+00	FGF18
+GO_Biological_Process_2021	chromosome organization (GO:0051276)	1/106	4.003270e-01	5.331139e-01	0	0	1.984862e+00	1.817089e+00	PADI3
+GO_Biological_Process_2021	regulation of phosphatidylinositol 3-kinase signaling (GO:0014066)	1/106	4.003270e-01	5.331139e-01	0	0	1.984862e+00	1.817089e+00	CRNN
+GO_Biological_Process_2021	proteolysis (GO:0006508)	2/287	4.016611e-01	5.331139e-01	0	0	1.464651e+00	1.335976e+00	CAPN14;CAPN12
+GO_Biological_Process_2021	positive regulation of gene expression (GO:0010628)	3/482	4.087569e-01	5.405662e-01	0	0	1.308169e+00	1.170333e+00	BMP2;FGF18;IL1F10
+GO_Biological_Process_2021	response to endoplasmic reticulum stress (GO:0034976)	1/110	4.118194e-01	5.426502e-01	0	0	1.911637e+00	1.695947e+00	CHAC1
+GO_Biological_Process_2021	regulation of Wnt signaling pathway (GO:0030111)	1/111	4.146583e-01	5.444255e-01	0	0	1.894163e+00	1.667432e+00	BMP2
+GO_Biological_Process_2021	regulation of cell cycle (GO:0051726)	2/296	4.167389e-01	5.451961e-01	0	0	1.419163e+00	1.242187e+00	BMP2;JMY
+GO_Biological_Process_2021	sulfur compound biosynthetic process (GO:0044272)	1/113	4.202954e-01	5.459354e-01	0	0	1.860150e+00	1.612373e+00	CHAC1
+GO_Biological_Process_2021	positive regulation of metabolic process (GO:0009893)	1/113	4.202954e-01	5.459354e-01	0	0	1.860150e+00	1.612373e+00	SLN
+GO_Biological_Process_2021	histone modification (GO:0016570)	1/114	4.230938e-01	5.476214e-01	0	0	1.843596e+00	1.585790e+00	PADI3
+GO_Biological_Process_2021	cellular response to molecule of bacterial origin (GO:0071219)	1/115	4.258788e-01	5.492784e-01	0	0	1.827331e+00	1.559811e+00	IL1F10
+GO_Biological_Process_2021	positive regulation of angiogenesis (GO:0045766)	1/116	4.286506e-01	5.509065e-01	0	0	1.811350e+00	1.534419e+00	FGF18
+GO_Biological_Process_2021	cellular response to lipopolysaccharide (GO:0071222)	1/120	4.396056e-01	5.593461e-01	0	0	1.750111e+00	1.438376e+00	IL1F10
+GO_Biological_Process_2021	cytoskeleton organization (GO:0007010)	1/120	4.396056e-01	5.593461e-01	0	0	1.750111e+00	1.438376e+00	DIAPH3
+GO_Biological_Process_2021	positive regulation of apoptotic process (GO:0043065)	2/310	4.398146e-01	5.593461e-01	0	0	1.353689e+00	1.111923e+00	BMP2;JMY
+GO_Biological_Process_2021	positive regulation of nucleic acid-templated transcription (GO:1903508)	3/511	4.458057e-01	5.649968e-01	0	0	1.231648e+00	9.950144e-01	BMP2;BAMBI;HOXC13
+GO_Biological_Process_2021	fatty acid metabolic process (GO:0006631)	1/124	4.503528e-01	5.687846e-01	0	0	1.692854e+00	1.350430e+00	SLC27A6
+GO_Biological_Process_2021	circulatory system development (GO:0072359)	1/126	4.556496e-01	5.734900e-01	0	0	1.665600e+00	1.309214e+00	BMP2
+GO_Biological_Process_2021	positive regulation of canonical Wnt signaling pathway (GO:0090263)	1/130	4.660922e-01	5.846173e-01	0	0	1.613627e+00	1.231798e+00	BAMBI
+GO_Biological_Process_2021	regulation of cell motility (GO:2000145)	1/133	4.737938e-01	5.922422e-01	0	0	1.576715e+00	1.177779e+00	FGF18
+GO_Biological_Process_2021	negative regulation of transcription, DNA-templated (GO:0045892)	5/948	4.801849e-01	5.976384e-01	0	0	1.104786e+00	8.104534e-01	DLX1;BMP2;DLX2;DLX4;MSX2
+GO_Biological_Process_2021	ribonucleoprotein complex assembly (GO:0022618)	1/136	4.813855e-01	5.976384e-01	0	0	1.541442e+00	1.126929e+00	EIF5
+GO_Biological_Process_2021	protein dephosphorylation (GO:0006470)	1/139	4.888687e-01	6.048715e-01	0	0	1.507704e+00	1.079005e+00	PPP2R1B
+GO_Biological_Process_2021	chromatin organization (GO:0006325)	1/142	4.962451e-01	6.107998e-01	0	0	1.475401e+00	1.033792e+00	PADI3
+GO_Biological_Process_2021	receptor-mediated endocytosis (GO:0006898)	1/143	4.986804e-01	6.107998e-01	0	0	1.464937e+00	1.019288e+00	DNAJC6
+GO_Biological_Process_2021	nitrogen compound transport (GO:0071705)	1/143	4.986804e-01	6.107998e-01	0	0	1.464937e+00	1.019288e+00	SLC7A11
+GO_Biological_Process_2021	positive regulation of cytosolic calcium ion concentration (GO:0007204)	1/147	5.083057e-01	6.205069e-01	0	0	1.424513e+00	9.639287e-01	TRPM1
+GO_Biological_Process_2021	positive regulation of hydrolase activity (GO:0051345)	1/149	5.130495e-01	6.242102e-01	0	0	1.405121e+00	9.377537e-01	BMP2
+GO_Biological_Process_2021	brain development (GO:0007420)	1/150	5.154044e-01	6.249921e-01	0	0	1.395620e+00	9.250217e-01	DLX2
+GO_Biological_Process_2021	actin filament organization (GO:0007015)	1/152	5.200805e-01	6.285741e-01	0	0	1.376995e+00	9.002408e-01	FHOD3
+GO_Biological_Process_2021	dephosphorylation (GO:0016311)	1/153	5.224017e-01	6.292958e-01	0	0	1.367867e+00	8.881813e-01	PPP2R1B
+GO_Biological_Process_2021	positive regulation of NF-kappaB transcription factor activity (GO:0051092)	1/155	5.270109e-01	6.327598e-01	0	0	1.349966e+00	8.646990e-01	CRNN
+GO_Biological_Process_2021	regulation of signal transduction by p53 class mediator (GO:1901796)	1/156	5.292990e-01	6.334234e-01	0	0	1.341188e+00	8.532665e-01	JMY
+GO_Biological_Process_2021	skeletal system development (GO:0001501)	1/158	5.338423e-01	6.350939e-01	0	0	1.323969e+00	8.309955e-01	BMP2
+GO_Biological_Process_2021	positive regulation of protein phosphorylation (GO:0001934)	2/371	5.341749e-01	6.350939e-01	0	0	1.126391e+00	7.062833e-01	BMP2;FGF18
+GO_Biological_Process_2021	response to lipopolysaccharide (GO:0032496)	1/159	5.360977e-01	6.353106e-01	0	0	1.315523e+00	8.201481e-01	IL1F10
+GO_Biological_Process_2021	positive regulation of protein kinase B signaling (GO:0051897)	1/161	5.405761e-01	6.385446e-01	0	0	1.298947e+00	7.990083e-01	FGF18
+GO_Biological_Process_2021	peptide biosynthetic process (GO:0043043)	1/162	5.427992e-01	6.391023e-01	0	0	1.290814e+00	7.887077e-01	ZAR1
+GO_Biological_Process_2021	heart development (GO:0007507)	1/164	5.472136e-01	6.406799e-01	0	0	1.274847e+00	7.686255e-01	BMP2
+GO_Biological_Process_2021	negative regulation of canonical Wnt signaling pathway (GO:0090090)	1/165	5.494049e-01	6.406799e-01	0	0	1.267009e+00	7.588365e-01	BMP2
+GO_Biological_Process_2021	regulation of neuron projection development (GO:0010975)	1/165	5.494049e-01	6.406799e-01	0	0	1.267009e+00	7.588365e-01	NCS1
+GO_Biological_Process_2021	regulation of MAPK cascade (GO:0043408)	1/166	5.515858e-01	6.411745e-01	0	0	1.259266e+00	7.492105e-01	BMP2
+GO_Biological_Process_2021	positive regulation of ERK1 and ERK2 cascade (GO:0070374)	1/172	5.644532e-01	6.540489e-01	0	0	1.214712e+00	6.946913e-01	BMP2
+GO_Biological_Process_2021	cation transport (GO:0006812)	1/174	5.686606e-01	6.568390e-01	0	0	1.200548e+00	6.776749e-01	TRPM1
+GO_Biological_Process_2021	defense response to bacterium (GO:0042742)	1/176	5.728278e-01	6.595651e-01	0	0	1.186707e+00	6.611976e-01	LYG2
+GO_Biological_Process_2021	regulation of translation (GO:0006417)	1/178	5.769551e-01	6.622283e-01	0	0	1.173179e+00	6.452375e-01	EIF5
+GO_Biological_Process_2021	regulation of cell migration (GO:0030334)	2/408	5.859753e-01	6.704733e-01	0	0	1.021801e+00	5.461296e-01	BMP2;FGF18
+GO_Biological_Process_2021	regulation of gene expression (GO:0010468)	5/1079	5.963747e-01	6.802399e-01	0	0	9.633290e-01	4.979314e-01	CRNN;BMP2;DLX4;FGF18;IL1F10
+GO_Biological_Process_2021	organelle organization (GO:0006996)	2/420	6.018508e-01	6.812248e-01	0	0	9.918558e-01	5.036105e-01	MREG;DIAPH3
+GO_Biological_Process_2021	negative regulation of cell differentiation (GO:0045596)	1/191	6.028373e-01	6.812248e-01	0	0	1.092188e+00	5.527652e-01	BAMBI
+GO_Biological_Process_2021	negative regulation of Wnt signaling pathway (GO:0030178)	1/191	6.028373e-01	6.812248e-01	0	0	1.092188e+00	5.527652e-01	BMP2
+GO_Biological_Process_2021	negative regulation of macromolecule metabolic process (GO:0010605)	1/194	6.085839e-01	6.855961e-01	0	0	1.075048e+00	5.338907e-01	BMP2
+GO_Biological_Process_2021	regulation of nucleic acid-templated transcription (GO:1903506)	2/430	6.147321e-01	6.903915e-01	0	0	9.681845e-01	4.710882e-01	BMP2;DLX4
+GO_Biological_Process_2021	regulation of macromolecule metabolic process (GO:0060255)	1/200	6.198314e-01	6.939830e-01	0	0	1.042317e+00	4.985482e-01	CRNN
+GO_Biological_Process_2021	regulation of intracellular signal transduction (GO:1902531)	2/437	6.235608e-01	6.958754e-01	0	0	9.522622e-01	4.497620e-01	CRNN;JMY
+GO_Biological_Process_2021	regulation of angiogenesis (GO:0045765)	1/203	6.253346e-01	6.958754e-01	0	0	1.026681e+00	4.819940e-01	FGF18
+GO_Biological_Process_2021	regulation of protein kinase B signaling (GO:0051896)	1/207	6.325498e-01	7.017650e-01	0	0	1.006541e+00	4.609919e-01	FGF18
+GO_Biological_Process_2021	translation (GO:0006412)	1/214	6.448470e-01	7.130685e-01	0	0	9.731159e-01	4.269470e-01	ZAR1
+GO_Biological_Process_2021	regulation of transcription, DNA-templated (GO:0006355)	10/2244	6.466457e-01	7.130685e-01	0	0	9.197185e-01	4.009575e-01	DLX1;BMP2;DLX2;DLX3;DLX4;MSX2;BAMBI;JMY;SP6;HOXC13
+GO_Biological_Process_2021	cellular response to lipid (GO:0071396)	1/219	6.533805e-01	7.176914e-01	0	0	9.505553e-01	4.045522e-01	IL1F10
+GO_Biological_Process_2021	negative regulation of nucleic acid-templated transcription (GO:1903507)	2/464	6.561697e-01	7.176914e-01	0	0	8.953670e-01	3.772502e-01	BMP2;MSX2
+GO_Biological_Process_2021	positive regulation of cell motility (GO:2000147)	1/221	6.567368e-01	7.176914e-01	0	0	9.418182e-01	3.960082e-01	BMP2
+GO_Biological_Process_2021	regulation of cellular macromolecule biosynthetic process (GO:2000112)	2/468	6.608070e-01	7.199837e-01	0	0	8.874989e-01	3.676850e-01	BMP2;DLX4
+GO_Biological_Process_2021	cellular response to cytokine stimulus (GO:0071345)	2/482	6.766484e-01	7.350496e-01	0	0	8.609929e-01	3.363068e-01	CRNN;IL1F10
+GO_Biological_Process_2021	regulation of ERK1 and ERK2 cascade (GO:0070372)	1/238	6.839970e-01	7.408276e-01	0	0	8.735066e-01	3.317593e-01	BMP2
+GO_Biological_Process_2021	membrane organization (GO:0061024)	1/242	6.900931e-01	7.452189e-01	0	0	8.588338e-01	3.185661e-01	DNAJC6
+GO_Biological_Process_2021	positive regulation of signal transduction (GO:0009967)	1/252	7.048291e-01	7.588868e-01	0	0	8.241979e-01	2.883044e-01	BMP2
+GO_Biological_Process_2021	regulation of cell population proliferation (GO:0042127)	3/764	7.152253e-01	7.678154e-01	0	0	8.114535e-01	2.719648e-01	BMP2;BAMBI;FGF18
+GO_Biological_Process_2021	central nervous system development (GO:0007417)	1/268	7.269771e-01	7.772850e-01	0	0	7.741770e-01	2.468543e-01	DLX2
+GO_Biological_Process_2021	positive regulation of cell migration (GO:0030335)	1/269	7.283054e-01	7.772850e-01	0	0	7.712490e-01	2.445127e-01	BMP2
+GO_Biological_Process_2021	inorganic cation transmembrane transport (GO:0098662)	1/274	7.348516e-01	7.819850e-01	0	0	7.569308e-01	2.332003e-01	TRPM1
+GO_Biological_Process_2021	positive regulation of intracellular signal transduction (GO:1902533)	2/546	7.416072e-01	7.855738e-01	0	0	7.571965e-01	2.263529e-01	BMP2;FGF18
+GO_Biological_Process_2021	negative regulation of cellular macromolecule biosynthetic process (GO:2000113)	2/547	7.425287e-01	7.855738e-01	0	0	7.557681e-01	2.249874e-01	BMP2;MSX2
+GO_Biological_Process_2021	regulation of transcription by RNA polymerase II (GO:0006357)	9/2206	7.450334e-01	7.859456e-01	0	0	8.337545e-01	2.453958e-01	DLX1;BMP2;DLX2;DLX3;DLX4;MSX2;JMY;SP6;HOXC13
+GO_Biological_Process_2021	MAPK cascade (GO:0000165)	1/303	7.698545e-01	8.097893e-01	0	0	6.832346e-01	1.787025e-01	FGF18
+GO_Biological_Process_2021	cellular macromolecule biosynthetic process (GO:0034645)	1/314	7.818997e-01	8.200960e-01	0	0	6.588532e-01	1.620969e-01	ZAR1
+GO_Biological_Process_2021	negative regulation of gene expression (GO:0010629)	1/322	7.902659e-01	8.252015e-01	0	0	6.421708e-01	1.511579e-01	BMP2
+GO_Biological_Process_2021	cellular response to oxygen-containing compound (GO:1901701)	1/323	7.912891e-01	8.252015e-01	0	0	6.401438e-01	1.498525e-01	IL1F10
+GO_Biological_Process_2021	gene expression (GO:0010467)	1/356	8.224193e-01	8.552223e-01	0	0	5.796590e-01	1.133262e-01	ZAR1
+GO_Biological_Process_2021	positive regulation of transcription, DNA-templated (GO:0045893)	4/1183	8.268144e-01	8.573502e-01	0	0	6.905262e-01	1.313208e-01	DLX1;BMP2;BAMBI;HOXC13
+GO_Biological_Process_2021	negative regulation of cell population proliferation (GO:0008285)	1/379	8.413522e-01	8.699534e-01	0	0	5.437483e-01	9.392978e-02	BMP2
+GO_Biological_Process_2021	phosphorylation (GO:0016310)	1/400	8.568868e-01	8.835132e-01	0	0	5.145759e-01	7.947599e-02	BMP2
+GO_Biological_Process_2021	transmembrane receptor protein tyrosine kinase signaling pathway (GO:0007169)	1/404	8.596703e-01	8.838863e-01	0	0	5.093640e-01	7.701909e-02	FGF18
+GO_Biological_Process_2021	protein modification by small protein conjugation (GO:0032446)	1/409	8.630744e-01	8.848937e-01	0	0	5.029928e-01	7.406789e-02	RNF182
+GO_Biological_Process_2021	cellular protein metabolic process (GO:0044267)	1/417	8.683518e-01	8.878107e-01	0	0	4.931174e-01	6.960764e-02	ZAR1
+GO_Biological_Process_2021	regulation of apoptotic process (GO:0042981)	2/742	8.759339e-01	8.930611e-01	0	0	5.510063e-01	7.298888e-02	BMP2;JMY
+GO_Biological_Process_2021	nervous system development (GO:0007399)	1/447	8.864097e-01	9.012244e-01	0	0	4.592400e-01	5.537332e-02	CHAC1
+GO_Biological_Process_2021	protein phosphorylation (GO:0006468)	1/496	9.107773e-01	9.234270e-01	0	0	4.127379e-01	3.857320e-02	BMP2
+GO_Biological_Process_2021	protein ubiquitination (GO:0016567)	1/525	9.226807e-01	9.329043e-01	0	0	3.893130e-01	3.132881e-02	RNF182
+GO_Biological_Process_2021	positive regulation of transcription by RNA polymerase II (GO:0045944)	2/908	9.361086e-01	9.420357e-01	0	0	4.461510e-01	2.945659e-02	DLX1;BMP2
+GO_Biological_Process_2021	negative regulation of cellular process (GO:0048523)	1/566	9.368738e-01	9.420357e-01	0	0	3.602981e-01	2.349384e-02	BMP2
+GO_Biological_Process_2021	cytokine-mediated signaling pathway (GO:0019221)	1/621	9.519422e-01	9.545575e-01	0	0	3.274024e-01	1.612487e-02	IL1F10
+GO_Biological_Process_2021	cellular protein modification process (GO:0006464)	2/1025	9.606946e-01	9.606946e-01	0	0	3.926915e-01	1.574641e-02	BMP2;PPP2R1B
