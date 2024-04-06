@@ -19,8 +19,8 @@ Dataset is publicly available under GEO Accession GSE80342 (https://www.ncbi.nlm
 * Data: This folder contains the raw data extracted from the GEO Accession GSE80342.
 
 * Results: This folder is subdivided into Figures and Dataframes.
-** Figures: It contains all the resulting figures from the analysis (Volcano Plots, Heatmap, KEGG/GO analysis)
-** Dataframes: It has the different dataframes after processing the data. This also includes the results for the KEGG and GO analysis for the different groups.
+	* Figures: It contains all the resulting figures from the analysis (Volcano Plots, Heatmap, KEGG/GO analysis)
+	* Dataframes: It has the different dataframes after processing the data. This also includes the results for the KEGG and GO analysis for the different groups.
 
 * Code: This folder contains the main code to run the analysis.
 
@@ -36,8 +36,10 @@ To run this notebook, you need to set up a Python environment with Jupyter Noteb
 * biomart for querying databases like Ensembl, useful in bioinformatics for retrieving large datasets.
 
 
-References:
+**References:**
 
 [1] L. Petukhova et al., "Genome-wide association study in alopecia areata implicates both innate and adaptive immunity," in Nature, vol. 466, no. 7302, pp. 113-117, 2010. Available: https://doi.org/10.1038/nature09114
+
 [2] A. Jabbari, L. Xing, et al., "A transcriptomic map of murine and human alopecia areata," JCI Insight, vol. 5, no. 13, e137424, 2020. [Online]. Available: https://doi.org/10.1172/jci.insight.137424
+
 [3] Bioconductor Project, "An end to end workflow for differential gene expression using Affymetrix microarrays," Bioconductor. [Online]. Available: https://www.bioconductor.org/help/workflows/arrays/
